@@ -1,4 +1,9 @@
 # Universal Telegram Bot Library
+CodeZoo Release Version 1.0.0
+
+- ArduinoJson 6.21.3 (Tested) : Arduino Managed Library
+- TYPE1SC 1.0.2 (Tested) : https://github.com/codezoo-ltd/TYPE1SC
+- ppposclientSecure 1.0.0 (Tested) : https://github.com/codezoo-ltd/ppposclientSecure
 
 ![Travis CI status](https://api.travis-ci.org/witnessmenow/Universal-Arduino-Telegram-Bot.svg?branch=master)
 ![License](https://img.shields.io/github/license/witnessmenow/Universal-Arduino-Telegram-Bot)
